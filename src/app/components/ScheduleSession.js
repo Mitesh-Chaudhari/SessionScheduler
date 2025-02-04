@@ -82,7 +82,7 @@ export default function ScheduleSession({ doctor, onSubmit, existingDetails }) {
 
   return (
     <>
-      <Header heading="Schedule Sessio" />
+      <Header heading="Schedule Session" />
       <div className="container">
         <div className="selected-card-wrapper">
           <div className="selected-card">
